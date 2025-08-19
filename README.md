@@ -4,7 +4,7 @@
 </p>
 
 
-<h1>¡Hola! Soy Jesus Ariza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"></h1>
+<h1>¡Hola! Soy Jesus Ariza</h1>
 <h3>  conocido como <strong>J-ArizaDEV</strong> - Desarrollador Web & Apasionado por la Tecnología 🚀</h3>
 
 ---
